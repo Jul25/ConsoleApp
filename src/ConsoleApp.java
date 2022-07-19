@@ -108,8 +108,7 @@ public class ConsoleApp {
     public static long getSide() {
         Scanner sides = new Scanner(System.in);
         System.out.println("Input Side");
-        long side = sides.nextLong();
-        return side;
+        return sides.nextLong();
     }
 
     static void countSize() {
