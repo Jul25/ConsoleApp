@@ -1,0 +1,2 @@
+public class Oh1 {
+}
